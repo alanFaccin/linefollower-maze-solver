@@ -2,7 +2,7 @@
 <b>Autor:</b> Niesuch <br />
 <b>Jezyk programowania:</b> C <br />
 
-## O projekcie:
+## O projekcie
 <p align="justify">
 Projekt pojazdu typu linefollower, czyli pojazdu poruszającego się po wyznaczonej trasie. Został on wyposażony w algorytm rozwiązywania problemu wyjścia z labiryntu, tj. algorytm lewej ręki. Po uruchomieniu pojazdu poszukiwana jest droga do wyjścia, a w międzyczasie skracana o niepotrzebne odcinki ścieżka. Gdy linefollower osiągnie swój cel, a następnie przemieścimy go z powrotem na linię startu, przejedzie on najkrótszą znalezioną trasą do mety. Zasada algorytmu lewej ręki jest trywialna. Do momentu wystąpienia skrzyżowania pojazd jedzie przed siebie. W przeciwnym wypadku wybiera skręt w lewo (o ile istnieje). Kolejnym priorytetem jest wybór drogi prosto, a jeżeli ta nie występuje wykonuje skręt w prawo lub zawraca w przypadku dotarcia do ślepego zaułka.
 
@@ -38,12 +38,12 @@ Projekt pojazdu typu linefollower, czyli pojazdu poruszającego się po wyznaczo
 * Ardumoto ↔ Arduino UNO
 </p>
 
-## Zdjęcia:
+## Zdjęcia
 ![Alt text](/images/IMG_1111.JPG)
 ![Alt text](/images/IMG_1112.JPG)
 ![Alt text](/images/IMG_1113.JPG)
 
-## Wideo:
+## Wideo
 https://www.youtube.com/watch?v=OyrQlJrjheg
 
 ## Prawa autorskie i licencja
